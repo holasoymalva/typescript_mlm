@@ -1,4 +1,4 @@
-# TypeScript MLM 🚀
+# TypeScript Micro Language Model 🚀
 
 *A specialized Micro Language Model engineered for TypeScript development*
 
